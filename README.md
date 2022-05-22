@@ -8,7 +8,7 @@ Starts a bash shell in a Docker container in the mounted current host directory
   * tag is set to "latest" if not specified
 * The image will be pulled if it does not exist in the local repository
 * The default shell used is "/bin/sh"
-  * shell can be overridden on a per image bases by editing case statement in script
+  * shell can be overridden on a per image basis by editing case statement in script
 
 ## Usage
 
