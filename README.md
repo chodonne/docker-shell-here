@@ -2,7 +2,7 @@
 
 ## About
 
-Starts a bash shell in a Docker container in the mounted current host directory
+Starts a posix shell in a Docker container in the mounted current host directory
 
 * The application takes the Docker "image:tag" as a parameter
   * tag is set to "latest" if not specified
